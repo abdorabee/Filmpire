@@ -1,0 +1,10 @@
+name: Filmpire
+id: 904c9342-4a57-4494-94e5-6207b13f4db0
+languages:
+  - TypeScript
+  - TSX
+extensions:
+  - .ts
+  - .cts
+  - .mts
+  - .tsx
